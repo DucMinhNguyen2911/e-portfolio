@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/e-portfolio/static/css/main.c3d7c163.css",
+    "main.js": "/e-portfolio/static/js/main.5c0b335c.js",
+    "static/media/profile.jpg": "/e-portfolio/static/media/profile.be4d127f870b33229bfd.jpg",
+    "static/media/Nguyen_Duc_Minh-CV.pdf": "/e-portfolio/static/media/Nguyen_Duc_Minh-CV.7058264743eb7e1b8102.pdf",
+    "static/media/work1.png": "/e-portfolio/static/media/work1.1172ea0a0c2cdf2a3348.png",
+    "static/media/squiggly.svg": "/e-portfolio/static/media/squiggly.6d15d51511849fe12e55f292d0a43c2d.svg",
+    "index.html": "/e-portfolio/index.html",
+    "static/media/circle.svg": "/e-portfolio/static/media/circle.05d1b2e751fae181c8d2dc037d49af1f.svg",
+    "static/media/semi circle.svg": "/e-portfolio/static/media/semi circle.c907f90d25fded7006f6842c844bf5ea.svg",
+    "static/media/triangle.svg": "/e-portfolio/static/media/triangle.ef56d9ee9c4fd57dd0aa41b3c639d3b3.svg",
+    "main.c3d7c163.css.map": "/e-portfolio/static/css/main.c3d7c163.css.map",
+    "main.5c0b335c.js.map": "/e-portfolio/static/js/main.5c0b335c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d7c163.css",
+    "static/js/main.5c0b335c.js"
+  ]
+}
