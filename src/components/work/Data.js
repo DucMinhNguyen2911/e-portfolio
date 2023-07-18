@@ -1,4 +1,5 @@
 import Work1 from "../../assets/work1.png"
+import Work2 from "../../assets/work2.png"
 
 export const projectsData = [
     {
@@ -6,7 +7,14 @@ export const projectsData = [
       image: Work1,
       title: "Phone Card Store",
       category: "web",
-      link: "http://dum1.us-east-1.elasticbeanstalk.com",
+      link: "http://dum1.ap-southeast-1.elasticbeanstalk.com",
+    },
+    {
+      id: 2,
+      image: Work2,
+      title: "To do list",
+      category: "web",
+      link: "https://ducminhnguyen2911.github.io/todolist",
     },
   ];
 
