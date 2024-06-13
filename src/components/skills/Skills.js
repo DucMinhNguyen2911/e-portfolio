@@ -2,6 +2,7 @@ import React from "react";
 import "./skills.css";
 import Frontend from "./Frontend";
 import Backend from "./Backend";
+import Tool from "./Tool";
 function Skills(){
     return(
         <section className="skills section" id="skills">
@@ -11,6 +12,7 @@ function Skills(){
             <div className="skills__container container_ grid_">
                 <Frontend />
                 <Backend />
+                <Tool />
             </div>
         </section>
     )

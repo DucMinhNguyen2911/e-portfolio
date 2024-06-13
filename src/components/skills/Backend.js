@@ -18,14 +18,14 @@ function Backend() {
                         <i class="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills__name">SQL Server</h3>
-                            <span className="skills__level">Basic</span>
+                            <span className="skills__level">Intermediate</span>
                         </div>
                     </div>
                     <div className="skills__data">
                         <i class="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills__name">ASP.NET Core</h3>
-                            <span className="skills__level">Basic</span>
+                            <span className="skills__level">Intermediate</span>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ function Backend() {
                     <div className="skills__data">
                         <i class="bx bx-badge-check"></i>
                         <div>
-                            <h3 className="skills__name">JSP</h3>
+                            <h3 className="skills__name">Redis</h3>
                             <span className="skills__level">Basic</span>
                         </div>
                     </div>
