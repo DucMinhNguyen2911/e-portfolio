@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/e-portfolio/static/css/main.c3d7c163.css",
-    "main.js": "/e-portfolio/static/js/main.c3937a97.js",
+    "main.js": "/e-portfolio/static/js/main.87935570.js",
     "static/media/profile.jpg": "/e-portfolio/static/media/profile.be4d127f870b33229bfd.jpg",
-    "static/media/Nguyen_Duc_Minh-CV.pdf": "/e-portfolio/static/media/Nguyen_Duc_Minh-CV.7058264743eb7e1b8102.pdf",
+    "static/media/Nguyen_Duc_Minh-CV.pdf": "/e-portfolio/static/media/Nguyen_Duc_Minh-CV.f110b53bf3f205d96190.pdf",
     "static/media/work1.png": "/e-portfolio/static/media/work1.1172ea0a0c2cdf2a3348.png",
+    "static/media/work3.png": "/e-portfolio/static/media/work3.6631dc4c530ade4106f6.png",
     "static/media/work2.png": "/e-portfolio/static/media/work2.e03b39c344d344b74942.png",
     "static/media/squiggly.svg": "/e-portfolio/static/media/squiggly.6d15d51511849fe12e55f292d0a43c2d.svg",
     "index.html": "/e-portfolio/index.html",
@@ -12,10 +13,10 @@
     "static/media/semi circle.svg": "/e-portfolio/static/media/semi circle.c907f90d25fded7006f6842c844bf5ea.svg",
     "static/media/triangle.svg": "/e-portfolio/static/media/triangle.ef56d9ee9c4fd57dd0aa41b3c639d3b3.svg",
     "main.c3d7c163.css.map": "/e-portfolio/static/css/main.c3d7c163.css.map",
-    "main.c3937a97.js.map": "/e-portfolio/static/js/main.c3937a97.js.map"
+    "main.87935570.js.map": "/e-portfolio/static/js/main.87935570.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d7c163.css",
-    "static/js/main.c3937a97.js"
+    "static/js/main.87935570.js"
   ]
 }
